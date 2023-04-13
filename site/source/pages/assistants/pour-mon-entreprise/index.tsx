@@ -274,7 +274,7 @@ function PourMonEntreprise() {
 			/>
 
 			<H2>
-				<Trans>Ressources utiles</Trans>
+				<Trans i18nKey="common.useful-resources">Ressources utiles</Trans>
 			</H2>
 			<Grid container spacing={3} role="list">
 				{dirigeantSimulateur === 'indépendant' && i18n.language === 'fr' && (

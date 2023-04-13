@@ -99,7 +99,7 @@ export default function Imposition() {
 								</Item>
 								<Item
 									key="ressources utiles"
-									title={t('Ressources utiles')}
+									title={t('common.useful-resources', 'Ressources utiles')}
 									hasChildItems={false}
 								>
 									<RuleReferences
@@ -160,7 +160,7 @@ export default function Imposition() {
 									)}
 									<Item
 										key="ressources utiles"
-										title={t('Ressources utiles')}
+										title={t('common.useful-resources', 'Ressources utiles')}
 										hasChildItems={false}
 									>
 										<RuleReferences
@@ -231,7 +231,7 @@ export default function Imposition() {
 									</Item>
 									<Item
 										key="ressources utiles"
-										title={t('Ressources utiles')}
+										title={t('common.useful-resources', 'Ressources utiles')}
 										hasChildItems={false}
 									>
 										<RuleReferences
