@@ -10,13 +10,14 @@ export default {
 export {
 	CarretDownIcon,
 	ChevronIcon,
+	CircleIcon,
+	ClockIcon,
+	EditIcon,
 	ErrorIcon,
+	HexagonIcon,
 	InfoIcon,
 	ReturnIcon,
 	SearchIcon,
 	SuccessIcon,
-	EditIcon,
-	HexagonIcon,
 	TriangleIcon,
-	CircleIcon,
 } from '@/design-system/icons'
