@@ -54,11 +54,7 @@ export default function Footer() {
 					/>
 				)}
 			</Helmet>
-			<div
-				css={`
-					flex: 1;
-				`}
-			/>
+
 			<footer role="contentinfo" id="footer">
 				<Container
 					backgroundColor={(theme) =>
